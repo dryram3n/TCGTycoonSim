@@ -11,7 +11,7 @@ Buy packs, crack them open, display rare pulls, haggle with collectors, and buil
 <!-- UPDATE THESE LINKS FOR NEW RELEASES -->
 | | |
 |---|---|
-| **Latest Release** | [v0.1.2 Pre-Release](https://github.com/dryram3n/TCGTycoonSim/releases/tag/v0.1.2-Pre-Release) |
+| **Latest Release** | [v0.1.3 Pre-Release](https://github.com/dryram3n/TCGTycoonSim/releases/tag/v0.1.3-Pre-Release) |
 | **All Releases** | [View Releases](https://github.com/dryram3n/TCGTycoonSim/releases) |
 | **Report Issues** | [Open an Issue](https://github.com/dryram3n/TCGTycoonSim/issues) |
 
